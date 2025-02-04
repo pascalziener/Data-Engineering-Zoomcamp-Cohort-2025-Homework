@@ -36,6 +36,10 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+
+
 .ipynb_checkpoints/
-ny_taxi_postgres_data/
 *.csv
+*.json
+
+**/ny_taxi_postgres_data/*
